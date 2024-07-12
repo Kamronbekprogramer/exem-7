@@ -7,7 +7,6 @@ import {
 import App from "../App";
 import {
   SignIn,
-  SignUp,
   Main,
   Category,
   Products,
@@ -25,7 +24,6 @@ const Index = () => {
           <Route path="/workers" element={<Workers />} />
         </Route>
         <Route path="/sign-in" element={<SignIn />} />
-        <Route path="/sign-up" element={<SignUp />} />
       </Route>
     )
   );

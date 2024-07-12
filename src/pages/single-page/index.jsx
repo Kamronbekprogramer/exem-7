@@ -6,7 +6,6 @@ import { Tag } from "antd";
 import DeleteIcon from "@mui/icons-material/Delete";
 import EditIcon from "@mui/icons-material/Edit";
 import AddPhotoAlternateIcon from "@mui/icons-material/AddPhotoAlternate";
-import {deleteItem} from "../../components/modal/products/index"
 import "./single.css";
 
 const SinglePage = () => {
