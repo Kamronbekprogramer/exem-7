@@ -1,0 +1,31 @@
+.single-page-container {
+  margin-top: 20px;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.product-image {
+  object-fit: contain;
+  width: 50%;
+}
+
+.product-detail {
+  margin: 10px 0;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.tag {
+  display: inline-block;
+  margin-top: 10px;
+}
